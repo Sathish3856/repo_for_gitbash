@@ -1,0 +1,16 @@
+package com.practice.package1;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+public class org 
+{
+	@Test
+	public void createOrg()
+	{
+		System.out.println("Create Org");
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.java.string.programs;
+
+public class Demo 
+{
+	public static void main(String [] args)
+	{
+		System.out.println("Hi i am from demo class");
+	}
+
+}
